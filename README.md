@@ -15,5 +15,5 @@ Using tkinter and OpenCV
     - import tkinter.messagebox
     
     
-Still Working on the accuracy part.
+Still Working on the accuracy part 🤓.
 
