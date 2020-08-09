@@ -1,4 +1,4 @@
-# 🚗 Drowsy-Driver-Monitoring and Detection --
+# 🚗 Drowsy Driver Monitoring and Detection --
  
 Using tkinter and OpenCV
 
