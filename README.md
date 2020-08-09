@@ -6,7 +6,7 @@ Using tkinter and OpenCV
 - The beeping mechanism will help him be alert. 
 - The GUI has been done using Tkinter
 
-#### Libraries --
+#### ✔Libraries --
     - import numpy
     - from pygame import mixer
     - import time
