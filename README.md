@@ -6,7 +6,7 @@
 - The beeping mechanism will help him be alert. 
 - The GUI has been done using Tkinter.
 
-#### ✔Libraries --
+#### ✔ Import Libraries --
     - import numpy
     - from pygame import mixer
     - import time
